@@ -13,7 +13,7 @@ function getCartTotal(){
 // end of the site 
 function updateDOM(total){
     outerEl.innerHTML = `
-        <h2>Thank for shopping with us</h2>
+        <h2>Thank you for shopping with us</h2>
         <h3>Your final total is : ${total}</h3>
     `;
 }
