@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
 body{
     display: flex;
     justify-content: center;
@@ -16,4 +18,7 @@ body{
     font-size: larger;
     cursor: pointer;
     text-decoration:none;
+}
+.outer a {
+    font-family: 'Roboto';
 }
